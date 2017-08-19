@@ -1,0 +1,13 @@
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+Thumbs.db
+.idea/
+
+*.pyc
+car_data/
